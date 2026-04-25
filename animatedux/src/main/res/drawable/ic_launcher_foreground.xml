@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--  Hyphen Client — logo icon: a bold "—" dash with glow rings  -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Outer glow ring -->
+    <path
+        android:fillColor="#1A00C8FF"
+        android:pathData="M54,20 A34,34 0 1 1 53.99,20 Z" />
+
+    <!-- Inner accent ring -->
+    <path
+        android:fillColor="#2600C8FF"
+        android:pathData="M54,26 A28,28 0 1 1 53.99,26 Z" />
+
+    <!-- Bold hyphen dash — the Hyphen Client mark -->
+    <path
+        android:fillColor="#FF00C8FF"
+        android:pathData="M28,50 L80,50 Q82,50 82,54 Q82,58 80,58 L28,58 Q26,58 26,54 Q26,50 28,50 Z"
+        android:strokeWidth="0" />
+
+    <!-- Subtle top cap line -->
+    <path
+        android:fillColor="#6600C8FF"
+        android:pathData="M40,38 L68,38 Q69,38 69,40 Q69,42 68,42 L40,42 Q39,42 39,40 Q39,38 40,38 Z" />
+
+    <!-- Subtle bottom cap line -->
+    <path
+        android:fillColor="#6600C8FF"
+        android:pathData="M40,66 L68,66 Q69,66 69,68 Q69,70 68,70 L40,70 Q39,70 39,68 Q39,66 40,66 Z" />
+
+</vector>

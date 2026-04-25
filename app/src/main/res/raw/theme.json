@@ -1,0 +1,95 @@
+{
+  "main": {
+    "primary":               "#FF00C8FF",
+    "background":            "#FF0C0D10",
+    "surface":               "#FF13151A",
+    "onBackground":          "#FFEEEEF2",
+    "onSurface":             "#FFFFFFFF",
+    "backgroundOverlayUi":   "#EE0C0D10",
+    "backgroundOverlayUi2":  "#F313151A",
+    "notBackgroundOverlayUi":"#FFD5D5D5",
+    "textModules":           "#FFEEEEF2"
+  },
+  "launchActivity": {
+    "launcherRadial": "#FF00C8FF",
+    "lAnimation":     "#FF0099CC",
+    "lText":          "#FFE0F7FF",
+    "lBlob1":         "#2900C8FF",
+    "lBlob2":         "#1A5E5CE6",
+    "lBg1":           "#FF0C0D10",
+    "lBg2":           "#FF13151A"
+  },
+  "miniMap": {
+    "mBg":           "#CC000000",
+    "mGrid":         "#4400C8FF",
+    "mCrosshair":    "#8000C8FF",
+    "mPlayerMarker": "#FF00C8FF",
+    "mNorth":        "#FF0080FF",
+    "mEntityClose":  "#FFFF4466",
+    "mEntityFar":    "#FFFFFF55"
+  },
+  "arrayList": {
+    "oArrayList1": "#FF00C8FF",
+    "oArrayList2": "#CC00C8FF",
+    "oArrayBase":  "#FF00C8FF"
+  },
+  "overlayNotification": {
+    "oNotifAccent":      "#FF00C8FF",
+    "oNotifBase":        "#FF13151A",
+    "oNotifText":        "#FFFFFFFF",
+    "oNotifProgressbar": "#FF00C8FF"
+  },
+  "packetNotification": {
+    "pColorGradient1": "#FF5E5CE6",
+    "pColorGradient2": "#FF00C8FF",
+    "pBackground":     "#E913151A"
+  },
+  "sessionStats": {
+    "sBase":                "#FF00C8FF",
+    "sAccent":              "#FF5E5CE6",
+    "sBackgroundGradient1": "#FF13151A",
+    "sBackgroundGradient2": "#F213151A"
+  },
+  "speedoMeter": {
+    "sMiniLineGraph": "#FF1A1D24",
+    "sMeterBg":       "#FF13151A",
+    "sMeterAccent":   "#FF00C8FF",
+    "sMeterBase":     "#FF5E5CE6"
+  },
+  "topCenterOverlay": {
+    "tcoGradient1": "#FF00C8FF",
+    "tcoGradient2": "#FF5E5CE6",
+    "tcoBackground": "#EE13151A",
+    "tcoText":       "#FFFFFFFF"
+  },
+  "targetHud": {
+    "thBackground": "#EE13151A",
+    "thAccent":     "#FF00C8FF",
+    "thText":       "#FFFFFFFF",
+    "thHealth":     "#FF00FF88",
+    "thHealthBg":   "#FF1A1D24"
+  },
+  "worldStats": {
+    "wsBackground": "#EE13151A",
+    "wsAccent":     "#FF00C8FF",
+    "wsText":       "#FFFFFFFF"
+  },
+  "keystrokes": {
+    "ksBackground": "#CC13151A",
+    "ksAccent":     "#FF00C8FF",
+    "ksText":       "#FFFFFFFF",
+    "ksBorder":     "#FF00C8FF"
+  },
+  "kitsuGui": {
+    "kgPrimary":         "#FF00C8FF",
+    "kgSecondary":       "#FF5E5CE6",
+    "kgSurface":         "#FF13151A",
+    "kgSurfaceVariant":  "#FF1A1D24",
+    "kgOnSurface":       "#FFFFFFFF",
+    "kgOnSurfaceVariant":"#FF8B8FA8",
+    "kgBackground":      "#FF0C0D10",
+    "kgSelected":        "#FF00C8FF",
+    "kgUnselected":      "#FF22262F",
+    "kgHover":           "#FF1E2028"
+  }
+}
